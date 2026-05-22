@@ -1,0 +1,14 @@
+D:\rkb\Doga2\bin\Debug\net8.0\Doga2.exe
+D:\rkb\Doga2\bin\Debug\net8.0\Doga2.deps.json
+D:\rkb\Doga2\bin\Debug\net8.0\Doga2.runtimeconfig.json
+D:\rkb\Doga2\bin\Debug\net8.0\Doga2.dll
+D:\rkb\Doga2\bin\Debug\net8.0\Doga2.pdb
+D:\rkb\Doga2\obj\Debug\net8.0\Doga2.GeneratedMSBuildEditorConfig.editorconfig
+D:\rkb\Doga2\obj\Debug\net8.0\Doga2.AssemblyInfoInputs.cache
+D:\rkb\Doga2\obj\Debug\net8.0\Doga2.AssemblyInfo.cs
+D:\rkb\Doga2\obj\Debug\net8.0\Doga2.csproj.CoreCompileInputs.cache
+D:\rkb\Doga2\obj\Debug\net8.0\Doga2.dll
+D:\rkb\Doga2\obj\Debug\net8.0\refint\Doga2.dll
+D:\rkb\Doga2\obj\Debug\net8.0\Doga2.pdb
+D:\rkb\Doga2\obj\Debug\net8.0\Doga2.genruntimeconfig.cache
+D:\rkb\Doga2\obj\Debug\net8.0\ref\Doga2.dll
